@@ -14,4 +14,6 @@ tags:
 
 **Link:** [github.com/safishamsi/graphify](https://github.com/safishamsi/graphify)
 
+**Seen at — Instagram**: [github.awesome](https://www.instagram.com/reel/DW5Mb-5E64l/)
+
 Graphify reads everything — code, Markdown, PDFs, screenshots — and outputs an interactive visual graph, an Obsidian vault, a Wikipedia-style wiki for agent navigation, and a plain-English report highlighting god nodes and surprising connections. 71.5x fewer tokens per query than reading raw files. Runs entirely locally, no Neo4j, no server.
