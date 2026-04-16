@@ -2,6 +2,10 @@
 title: "Brain — Activity Log"
 type: log
 ---
+## [2026-04-16] ingest | Karpathy's Gists
+- source: GitHub (@karpathy)
+- entity: karpathys-gists
+- tags: ai, coding, reference
 
 # Log
 
