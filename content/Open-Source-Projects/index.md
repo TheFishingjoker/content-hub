@@ -8,3 +8,4 @@ Saved repos and tools, organized by category.
 
 - [[AI]] — Agent frameworks, memory systems, knowledge tools
 - [[Development]] — Dev tools, IDEs, automation
+- [[Finance]] — Trading platforms, fintech, market data
