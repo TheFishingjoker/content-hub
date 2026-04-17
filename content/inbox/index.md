@@ -1,5 +1,15 @@
 ---
 title: Inbox
+tags:
+  - inbox
 ---
 
-New saves waiting to be processed.
+# Inbox
+
+Latest saves. Most items get sorted into categories:
+
+- [[Open-Source-Projects/index|Open-Source Projects]] (AI, Development, Finance)
+- [[Polymarket/index|Polymarket]]
+- [[Crypto/index|Crypto]]
+
+See [[MOCs/index|Maps of Content]] for topic-based views.

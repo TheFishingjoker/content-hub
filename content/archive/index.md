@@ -1,5 +1,14 @@
 ---
 title: Archive
+tags:
+  - archive
 ---
 
-Processed and tagged content.
+# Archive
+
+Processed and organized content. Browse by category:
+
+- [[Open-Source-Projects/index|Open-Source Projects]]
+- [[Polymarket/index|Polymarket]]
+- [[Crypto/index|Crypto]]
+- [[polymarket-lab/index|Polymarket Lab]]
